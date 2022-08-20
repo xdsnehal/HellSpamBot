@@ -15,7 +15,7 @@ def load_plugs(plugname):
     load.logger = logging.getLogger(plugname)
     spec.loader.exec_module(load)
     sys.modules["hellspam.plugins." + plugname] = load
-    print("Hell SpamBot - Successfully Imported " + plugname)
+    print("Hell Spam Bot ⚡ - Successfully Imported " + plugname)
 
 if __name__ == "__main__":
     modules = "hellspam/plugins/*.py"
@@ -31,8 +31,8 @@ import hellspam.userNeeds
 import hellspam.help
 import hellspam.helpers.callbackQuery
 
-print("\n\nHell Spam Bot Deployed Successfully!\n\n")
-
+print("\n\nHell Spam Bot Deployed Successfully! ❤️⚡🔥 \n\n")
+print("\n\n For future updates, Join @HellSpamBot 🔥\n\n")
 
 if len(argv) not in (1, 3, 4):
     try:
