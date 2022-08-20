@@ -12,7 +12,7 @@ from telethon import events
 @SpamBot5.on(events.CallbackQuery(data=b'alive'))
 async def no(e):
     if e.query.user_id not in MY_USERS:
-        await e.answer("Only Owner, Co-Owner And Sudo Users Can Access This Buttons!", cache_time=0, alert=True)
+        await e.answer("You can't access these buttons. Make Your Own @HellSpamBot..!!!", cache_time=0, alert=True)
     else:
         await e.edit(f"{ALIVE_CMD}", buttons=BACK)
 
