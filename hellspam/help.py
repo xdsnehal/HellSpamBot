@@ -12,7 +12,7 @@ Buttons = [
     Button.inline("Reply Raid", b'replyraid')
 ], [
     Button.inline("Spam", b'spam'),
-    Button.inline("Pspam", b'pspam')
+    Button.inline("Porn Spam", b'pspam')
 ], [
     Button.inline("Extras", b'extras')
 ], [
