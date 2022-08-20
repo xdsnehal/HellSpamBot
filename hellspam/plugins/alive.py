@@ -9,9 +9,13 @@ master = f"[{OWNER_NAME}](tg://user?id={OWNER_ID})"
 
 alive_msg = f"""
 {BIO_MSG}
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 ✪ Master:- {master}
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 ✪ Bot Version:- `{BOT_VERSION}`
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 ✪ Creator:- [Akhil](t.me/akhilprs)
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
 ✪ Telethon Version:- `{version.__version__}`
 
 © @HellSpamBot
