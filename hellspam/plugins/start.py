@@ -4,9 +4,8 @@ from telethon import events, Button
 
 
 data  = [
-    Button.url("Channel", url="t.me/HellSpamBot"),
     Button.url("Repo", url="https://GitHub.com/TeamHell/HellSpamBot"),
-    Button.url("Group", url="t.me/HellSpam_SupportChat")
+    Button.url("Support", url="t.me/HellSpam_SupportChat")
   ]
 
 
@@ -31,11 +30,20 @@ async def start(e):
 Hey {mention},
 This Is Hell Spam Bot!
 A Powerful Telegram Spam Bot, fast and stable !
-➖➖➖➖➖➖➖➖
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
 ✪ Master:- {myOwner}
-➖➖➖➖➖➖➖➖
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
 ✪ Sudo:- {sudo_user}
-➖➖➖➖➖➖➖➖
+
+➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+
 ✪ Creator:- {creator}
-    """
+
+
+© @HellSpamBot
+"""
         await e.client.send_file(e.chat_id, DISPLAY_PIC, caption=ON_START, buttons=data)
