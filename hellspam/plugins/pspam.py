@@ -1,3 +1,6 @@
+# If you are kanging this, make sure to give credits else you are gay no doubt in that..!!!
+
+
 import random
 from hellspam import *
 from hellspam import SpamBot1, SpamBot2, SpamBot3, SpamBot4, SpamBot5
