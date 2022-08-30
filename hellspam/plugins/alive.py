@@ -3,9 +3,15 @@
 
 from hellspam import *
 from hellspam import SpamBot1, SpamBot2, SpamBot3, SpamBot4, SpamBot5
-from telethon import events
+# from telethon import events
 from telethon import version
+from telethon import events, Button
 
+
+data  = [
+    Button.url("Repo", url="https://GitHub.com/TeamHell/HellSpamBot"),
+    Button.url("Support", url="t.me/HellSpam_SupportChat")
+  ]
 
 master = f"[{OWNER_NAME}](tg://user?id={OWNER_ID})"
 
