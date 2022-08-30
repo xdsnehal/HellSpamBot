@@ -32,4 +32,4 @@ BACK = [
 
 async def help(e):
     if e.sender_id in MY_USERS:
-        message = await e.client.send_file(e.chat_id, DISPLAY_PIC, caption="This Is Help Command!!!", buttons=Buttons)
+        message = await e.client.send_file(e.chat_id, DISPLAY_PIC, caption="This Is Help Menu Regarding Using Your Hell Spam Bot... Get every Detailed Explaination of All the commands by clicking the buttons..!!!", buttons=Buttons)
