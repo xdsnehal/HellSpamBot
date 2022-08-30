@@ -23,7 +23,7 @@ async def start(e):
         user_id = e.sender_id
         mention = f"[{name}](tg://user?id={user_id})"
         myOwner = f"[{OWNER_NAME}](tg://user?id={OWNER_ID})"
-        creator = f"[Akhil](tg://user?id={2102783671})"
+        creator = f"[Akhil 🇮🇳](tg://user?id={2102783671})"
         sudo_user = ""
         if e.sender_id in MY_USERS:
             sudo_user = "True"
@@ -31,7 +31,7 @@ async def start(e):
             sudo_user = "False"
         ON_START = f"""
 Hey {mention},
-This Is Hell Spam Bot!
+This Is Hell Spam Bot !
 A Powerful Telegram Spam Bot, fast and stable !
 
 ☆━━━━━━━━━━━━━━☆ 
