@@ -34,15 +34,15 @@ Hey {mention},
 This Is Hell Spam Bot!
 A Powerful Telegram Spam Bot, fast and stable !
 
-➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+☆━━━━━━━━━━━━━━━━☆ 
 
 ✪ Master:- {myOwner}
 
-➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+☆━━━━━━━━━━━━━━━━☆ 
 
 ✪ Sudo:- {sudo_user}
 
-➖➖➖➖➖➖➖➖➖➖➖➖➖➖➖
+☆━━━━━━━━━━━━━━━━☆ 
 
 ✪ Creator:- {creator}
 
