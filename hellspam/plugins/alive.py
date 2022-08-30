@@ -35,6 +35,6 @@ alive_msg = f"""
 async def alive(e):
     if e.sender_id in MY_USERS:
         try:
-            await e.client.send_file(e.chat_id, DISPLAY_PIC, caption=alive_msg)
+            await e.client.send_file(e.chat_id, DISPLAY_PIC, caption=alive_msg, buttons=data)
         except Exception as e:
             print(e)
