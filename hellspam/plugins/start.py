@@ -36,15 +36,15 @@ A Powerful Telegram Spam Bot, fast and stable !
 
 ☆━━━━━━━━━━━━━━☆ 
 
-✪ Master:- {myOwner}
+✪ **Master**:- {myOwner}
 
 ☆━━━━━━━━━━━━━━☆ 
 
-✪ Sudo:- {sudo_user}
+✪ **Sudo**:- {sudo_user}
 
 ☆━━━━━━━━━━━━━━☆ 
 
-✪ Creator:- {creator}
+✪ **Creator**:- {creator}
 
 
 © @HellSpamBot
