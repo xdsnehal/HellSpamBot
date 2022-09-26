@@ -9,7 +9,7 @@ Check Bot Alive Or What!
 
 PING_CMD =  """
 Check Bot Speed Using Ping!
-✪ `/ping` - To Check My Ping! - `(SUDO:- True)`
+✪ `!ping` - To Check My Ping! - `(SUDO:- True)`
 
 © @HellSpamBot
 """
