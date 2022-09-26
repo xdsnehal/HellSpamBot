@@ -17,5 +17,5 @@ async def ping(e):
         message = await e.client.send_message(e.chat_id, "`sabar rhak lodu..!`")
         after = datetime.now()
         ms = (after - before).microseconds / 1000
-        await e.client.edit_message(message, f"𝗨𝗥𝗔𝗡𝗜𝗨𝗠 ✘ 𝗦𝗣𝗔𝗠 .......
-𝗧𝗨𝗠𝗛𝗔𝗥𝗘 𝗠𝗔𝗔 𝗞𝗔 𝗕𝗢𝗫𝗗𝗔𝗔𝗔👅🤣 ")
+        await e.client.edit_message(message, f"𝗨𝗥𝗔𝗡𝗜𝗨𝗠 ✘ 𝗦𝗣𝗔𝗠 ....... {ms}
+                                               𝗧𝗨𝗠𝗛𝗔𝗥𝗘 𝗠𝗔𝗔 𝗞𝗔 𝗕𝗢𝗫𝗗𝗔𝗔𝗔👅🤣 ")
